@@ -1,4 +1,4 @@
-# Orignal version
+# Original version
 # No serial communication version
 
 
